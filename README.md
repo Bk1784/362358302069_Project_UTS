@@ -1,3 +1,22 @@
+// menambahkan validasi
+// dalam sintak tersebut mengharuskan nama buku tidak boleh kosong dan hargma minimal 1000
+![image](https://github.com/user-attachments/assets/3bc6a168-451d-40d2-8f9a-c0f3a2f15912)
+
+//menmbahkan endpoint pencarian berdasarkan kategori_id dan judul
+![image](https://github.com/user-attachments/assets/467887e6-c81a-42fb-946f-ddef9a92ba1f)
+//ketika di lihat pada link http://127.0.0.1:8000/api/bukus/search?kategori_id=1 maka hasilnya adalah
+![image](https://github.com/user-attachments/assets/dd142b41-0f59-4149-853f-e846b9334b5d)
+//ketika pada link http://127.0.0.1:8000/api/bukus/search?judul=harry yang berdasarkan mencari judul maka hasilnya
+![image](https://github.com/user-attachments/assets/9fc4a2f9-3a61-4d31-8527-d280e229a346)
+
+//menggunakan ngrok untuk membuka API di internet
+//https://890a-103-211-4-98.ngrok-free.app/api/bukus
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
